@@ -1,2 +1,2 @@
 # red7
-project sql data bace quiry
+project sql data base quiry
